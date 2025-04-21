@@ -1,0 +1,85 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.Antiforgery.leVP-PGSx2U",
+      "value": "CfDJ8HZZbLvlnftMozEYRTlDUlOeChBXKgaTthQWvGDlt98Sav06aEdsgqectdC3jesfLtpedMibroNFFoj_pxMEfGlcjygFqSPuruQIv69OFuOvtFyuIUM51PE47RRLpOmEX86OGZvYE1YtZ8Cg_d49ovw",
+      "domain": "vieclam.ueh.edu.vn",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.3.845406097.1745211130",
+      "domain": ".ueh.edu.vn",
+      "path": "/",
+      "expires": 1745297532,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gat_gtag_UA_190149622_2",
+      "value": "1",
+      "domain": ".ueh.edu.vn",
+      "path": "/",
+      "expires": 1745211189,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sl-session",
+      "value": "uX/eKXcgB2iu2dvC10q6AQ==",
+      "domain": "ueh.edu.vn",
+      "path": "/",
+      "expires": 1745297530.252985,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": ".AspNetCore.Cookies",
+      "value": "CfDJ8HZZbLvlnftMozEYRTlDUlMM9Omx0fxxy61IbiNwrnwLxk6hjUWlnymLgF1sLZuuESGcXOctgSOf8yHMfdmHBV1uisLpcePE3QZU51JQSrMvWUSrgf3WzCoNsSLNegcCV1WQKpU7NdlCinSZuScFbnDA8zuqqY9R7yyDgd1pUMt18UVZABe6qD9U8iz8Hchpqdwo4Oq7QmH4oOeiYSQOxxPnBm78ulg2OxbSVWs5Pyt73U5lxWglzBF5zQkLv1D8DNYdy9DBjnheB0DU6ZmhincANwFc4bHMIjK874CN9193WaqnKwrtNiSjNQwXbA1IT8KkOjR8qVxWbdA_7uCjLiL85S5nKYv3bve6r4tnf1iKKZU17YQ1LOI9osbOHmqp6sVouDmA4r48kxud8N89gH1yypMvI__0T3VYUfVt_a-U22G_vpY7V6QS18sWUNZLPefg0vEMU4Id4DfXKLrZkdLWQmvAH1PNB30S4rgsaRHKwuK6Y6eOfjQNbzaSycgDJnbuPrzDrVDaqa0UHOTIZQGGeP4UfOWfAbWR9J5VAaclZtd9ZrX_oS7lQcZX9QJ4Fu6boClfFVDDthGqNA9pBcwffKxml6RZLxNezAERnUZZFR5vU1903IcpIPgELR91HVPSPvO-vJ6C7l_ewoVMef1MDp_ZGpr1i4tTZjMLotJI",
+      "domain": "vieclam.ueh.edu.vn",
+      "path": "/",
+      "expires": 1745297532.311645,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".SanViecLam.Session",
+      "value": "CfDJ8HZZbLvlnftMozEYRTlDUlO21I8ptJLs7CdBSCB3Axvv3WqP1BHlwuQoZgt8vMQZWByGghRoeo%2FvOEIL4TPBgPi12eNyqx7yEbtOOJUPSrHd9NFd7VCevKtht%2FDSHHcwPGELZ3hdsEwQy9UdoVBwzJ2sVWpRk4OcO3vljUInGL5D",
+      "domain": "vieclam.ueh.edu.vn",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_3T3MZGQ4H5",
+      "value": "GS1.1.1745211129.1.1.1745211132.0.0.0",
+      "domain": ".ueh.edu.vn",
+      "path": "/",
+      "expires": 1779771132.535093,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.165313126.1745211130",
+      "domain": ".ueh.edu.vn",
+      "path": "/",
+      "expires": 1779771132.535976,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
